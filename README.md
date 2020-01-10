@@ -1,7 +1,7 @@
 # seneca-oedipus
 A learner's edition of Seneca's *Oedipus*.
 
-The Latin text is ad usum lectorum, with readings from:
+The Latin text is edited *ad usum lectorum*, with readings from:
 
 - Fitch 2019
 - Boyle 2011
