@@ -126,7 +126,7 @@ em {
 
 body .same-width {
 	box-sizing: border-box;
-	width: 25rem;
+	width: 27rem;
 	margin: 0 auto;
 	display: block;
 	padding:0 25px;
@@ -152,7 +152,7 @@ body .same-width {
 	line-height: .9rem;
 	/* overflow-x: hidden; */
 	margin: auto;
-	width: 25rem;
+	width: 27rem;
 	padding-left: 25px;
 }
 
@@ -182,7 +182,7 @@ body .same-width {
 
 #container {
 	margin: 60px auto 150px;
-	width: 25rem;
+	width: 27rem;
 }
 
 section {
