@@ -106,8 +106,6 @@ const tagCatalog = [
 		for (j in tagCatalog[i].elements) {
 				if (tag[i] === tagCatalog[i].elements[j].value) {
 					wordPos.push(tagCatalog[i].elements[j].expanded);
-					console.log(wordPos);
-	
 				}
 		}};
 		if (tag[0] === "n" || tag[0] === "a" || tag[0] === "p" || tag[0] === "m") {

@@ -7,4 +7,3 @@ The Latin text is edited *ad usum lectorum*, with readings from:
 - Boyle 2011
 - Zwierlein 1986
 - Peiper and Richter 1867
-
