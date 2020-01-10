@@ -1,6 +1,6 @@
 const tagCatalog = [
 	{
-		"postag": "pos",
+		"postag": "pos", //0
 		"elements": [
 			{"value": "v", "expanded": "verb"}, 
 			{"value": "n", "expanded": "noun"}, 
@@ -14,7 +14,7 @@ const tagCatalog = [
 		]
 	},
 	{
-		"postag": "person", 
+		"postag": "person", //1
 		"elements": [
 			{"value": "-", "expanded": " "}, 
 			{"value": "1", "expanded": "1"}, 
@@ -23,7 +23,7 @@ const tagCatalog = [
 		]
 	},
 	{
-		"postag": "number", 
+		"postag": "number", //2
 		"elements": [
 			{"value": "-", "expanded": " "}, 
 			{"value": "s", "expanded": "sg."}, 
@@ -31,7 +31,7 @@ const tagCatalog = [
 		]
 	},
 	{
-		"postag": "tense", 
+		"postag": "tense", //3
 		"elements": [
 			{"value": "-", "expanded": " "}, 
 			{"value": "p", "expanded": "pres."}, 
@@ -43,7 +43,7 @@ const tagCatalog = [
 		]
 	},
 	{
-		"postag": "mood", 
+		"postag": "mood", //4
 		"elements": [
 			{"value": "-", "expanded": " "}, 
 			{"value": "i", "expanded": "ind."}, 
@@ -57,7 +57,7 @@ const tagCatalog = [
 		]
 	},
 	{
-		"postag": "voice", 
+		"postag": "voice", //5
 		"elements": [
 			{"value": "-", "expanded": " "}, 
 			{"value": "a", "expanded": "act."}, 
@@ -66,7 +66,7 @@ const tagCatalog = [
 		]
 	},
 	{
-		"postag": "gender", 
+		"postag": "gender", //6
 		"elements": [
 			{"value": "-", "expanded": " "}, 
 			{"value": "m", "expanded": "m."}, 
@@ -75,7 +75,7 @@ const tagCatalog = [
 		]
 	},
 	{
-		"postag": "case", 
+		"postag": "case", //7
 		"elements": [			
 			{"value": "-", "expanded": " "}, 
 			{"value": "n", "expanded": "nom."}, 
@@ -88,7 +88,7 @@ const tagCatalog = [
 		]
 	},
 	{
-		"postag": "degree", 
+		"postag": "degree", //8
 		"elements": [
 			{"value": "-", "expanded": " "}, 
 			{"value": "p", "expanded": " "}, 
@@ -131,14 +131,15 @@ const tagCatalog = [
 		bubbleTop.addEventListener("click", function(event) { // "click" is another way to go
 			if (event.target.tagName === "SPAN") {
 				let clickedWord = event.target;
-	// Get information.  Eventually: data-perseus-lemma >> https://logeion.uchicago.edu/perseus-lemma
+				// Get information.
+				let wordLookup = (clickedWord.dataset.perslemma) ? clickedWord.dataset.perslemma : " ";
 				let wordForm = (clickedWord.dataset.intext) ? clickedWord.dataset.intext : `&nbsp;`;
 				let wordDict = (clickedWord.dataset.lemma) ? clickedWord.dataset.lemma : " ";
 				var wordPos = (clickedWord.dataset.pos) ? doPOS(clickedWord.dataset.pos) : " ";
 				let wordDef = (clickedWord.dataset.shortdef) ? clickedWord.dataset.shortdef : " ";
 				let infoBox = 
 					`
-					<a href="http://www.perseus.tufts.edu/hopper/morph?la=la&l=${wordForm}&db=ls" target="_dict">
+					<a href="https://logeion.uchicago.edu/${wordLookup}" target="_dict">
 						<li><span class="entry">${wordForm}</span> &nbsp; <span style="font-feature-settings: 'c2sc', 'smcp';">${wordPos}</span></li>
 						<li>${wordDict}</li>
 						<li><em>${wordDef}</em></li>
