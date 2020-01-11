@@ -25,7 +25,8 @@
   }
 
 @media only screen and (max-width: 599px) { 
-    footer p, p::before {display: none;} 
+	footer p, p::before {display: none;}
+	#title {background-image: none !important;}
 	/* #title, #centerer, #container {width:100%;margin-left:0;margin-right:0;padding-left:0;padding-right:0;} */
 } 
 
@@ -178,6 +179,10 @@ body .same-width {
 	background-color:#099cec;
 	/* animation-fill-mode: forwards; */
 	color: #ffffff;
+	background-image: url("fu-cl-ed.svg");
+	background-repeat: no-repeat;
+	background-position: 2% 50%;
+	background-size: auto 50px;
 }
 
 #container {
