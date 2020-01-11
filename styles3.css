@@ -236,7 +236,7 @@ footer {
 	bottom:0;
 	background-image: var(--gradient);
 	background-size: 150%;
-	animation: bg-animation 20s 2 alternate;
+	animation: bg-animation 15s infinite alternate;
 	/* background-color: #041344; */
 	/* background-color: #582c83; */
 	height:60px;
