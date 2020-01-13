@@ -126,7 +126,8 @@ const tagCatalog = [
 	
 	const doInfo = function() {
 		const bubbleTop = document.querySelector("#container");
-		bubbleTop.addEventListener("click", function(event) { // "click" is another way to go
+		// bubbleTop.addEventListener("click", function(event) { 
+		bubbleTop.addEventListener("mouseover", function(event) { // "click" is another way to go
 			if (event.target.tagName === "SPAN") {
 				let clickedWord = event.target;
 				// Get information.
