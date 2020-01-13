@@ -102,7 +102,7 @@ p:hover::before {
 	text-decoration-color: #213450;
 	text-decoration-thickness: 3px;
 	text-decoration-skip-ink: auto; */
-	border-bottom: 3px dotted #CA1E47;
+	/* border-bottom: 3px dotted #CA1E47; */
 	color: #CA1E47;
 }
 
