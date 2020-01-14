@@ -26,9 +26,13 @@
 
 @media only screen and (max-width: 599px) { 
 	footer p, p::before {display: none;}
-	#title {background-image: none !important;}
 	/* #title, #centerer, #container {width:100%;margin-left:0;margin-right:0;padding-left:0;padding-right:0;} */
 } 
+
+@media only screen and (max-width: 799px) { 
+	#title {background-image: none !important;}	/* #title, #centerer, #container {width:100%;margin-left:0;margin-right:0;padding-left:0;padding-right:0;} */
+} 
+
 
 :root {
 	--gradient: linear-gradient(
@@ -52,7 +56,7 @@
 	padding: 0;
 	margin: 0;
 	/* font-size: calc([minimum size px] + ([maximum size (nopx)] - [minimum size (nopx)]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width]))); */
-	font-size: calc(12px + (19 - 12) * ((100vw - 320px) / (900 - 320)));
+	font-size: calc(10px + (19 - 10) * ((100vw - 320px) / (900 - 320)));
 	/* font-weight: lighter; */
 }
 
@@ -134,7 +138,9 @@ body .same-width {
 }
 
 #centerer {
-	box-sizing: border-box;
+	/* box-sizing: border-box; */
+	display: flex;
+	align-items: center;
 	top:0;
 	left:0;
 	padding: 25px 0 25px 25px;
@@ -145,6 +151,7 @@ body .same-width {
 	position: -webkit-sticky;
 	position: sticky;
 	overflow: hidden;
+	height: 3rem;
 	z-index: 250;
 }
 
