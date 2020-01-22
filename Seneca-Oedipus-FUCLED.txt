@@ -1,0 +1,1090 @@
+SENECA
+OEDIPUS
+Childree's edition, based on Fitch, Zwierlein, Peiper/Richter, Boyle
+Colometry readjusted to fit original(?) line-numbers from Gronovius
+*********************************************************
+	1   	~oedipus~#iam nocte Tītān dubius expulsā redit
+	2   	et nūbe maestus squālidā exorītur iubar,
+	3   	lūmenque flammā trīste lūctificā gerēns
+	4   	prōspiciet avidā peste sōlātās domōs,
+	5   	strāgemque quam nox fēcit ostendet diēs.
+	6   	quisquamne rēgnō gaudet? ō fallāx bonum,
+	7   	quantum malōrum fronte quam blandā tegis!
+	8   	ut alta ventōs semper excipiunt iuga
+	9   	rūpemque saxīs vasta dirimentem freta
+	10  	quamvīs quiētī verberant flūctūs maris,
+	11  	imperia sīc excelsa Fortūnae obiacent.
+	12  	quam bene parentis scēptra Polybī fūgeram!
+	13  	cūrīs solūtus exul intrepidus vagāns
+	14  	(caelum deōsque testor) in rēgnum incīdī.
+	15  	īnfanda timeō, nē meā genitor manū
+	16  	perimātur; hoc mē Delphicae laurūs monent,
+	17  	aliudque nōbīs maius indīcunt scelus.
+	18  	est maius aliquod patre mactātō nefās?
+	19  	prō misera pietās! ēloquī fātum pudet:
+	20  	thalamōs parentis Phoebus et dīrōs torōs
+	21  	nātō minātur impiā incestōs face.
+	22  	hic mē paternīs expulit rēgnīs timor,
+	23  	hōc ego penātēs profugus excessī meōs;
+	24  	parum ipse fīdēns mihimet in tūtō tua,
+	25  	Nātūra, posuī iūra. cum magna horreās,
+	26  	quod posse fierī nōn putēs metuās tamen.
+	27  	cūncta expavēscō mēque nōn crēdō mihi.
+	28  	iam iam aliquid in nōs fāta mōlīrī parant.
+	29  	nam quid rear quod ista Cadmēae luēs
+	30  	īnfēsta gentī strāge tam lātē ēditā
+	31  	mihi parcit ūnī? cui reservāmur malō?
+	32  	inter ruīnās urbis et semper novīs
+	33  	dēflenda lacrimīs fūnera ac populī struem
+	34  	incolumis astō—scīlicet Phoebī reus.
+	35  	spērāre poterās sceleribus tantīs darī
+	36  	rēgnum salūbre? fēcimus caelum nocēns.
+	37  	nōn aura gelidō lēnis afflātū fovet
+	38  	anhēla flammīs corda, nōn Zephyrī levēs
+	39  	spīrant, sed ignēs auget aestiferī canis
+	40  	Tītān, leōnis terga Nemeaeī premēns.
+	41  	dēseruit amnēs ūmor atque herbās color
+	42  	āretque Dircē, tenuis Ismēnos fluit
+	43  	et tinguit inopī nūda vix undā vada.
+	44  	obscūra caelō lābitur Phoebī soror,
+	45  	trīstisque mundus nūbilō pallet diē.
+	46  	nūllum serēnīs noctibus sīdus micat,
+	47  	sed gravis et āter incubat terrīs vapor;
+	48  	obtēxit arcēs caelitum ac summās domōs
+	49  	īnferna faciēs. dēnegat frūctum Cerēs
+	50  	adulta, et altīs flāva cum spīcīs tremat,
+	51  	ārente culmō sterilis ēmoritur seges.
+	52  	nec ūlla pars immūnis exitiō vacat,
+	53  	sed omnis aetās pariter et sexus ruit,
+	54  	iuvenēsque senibus iungit et natīs patrēs
+	55  	fūnesta pestis. ūna fax thalamōs cremat,
+	56  	flētūque acerbō fūnera et questū carent.
+	57  	quīn ipsa tantī pervicāx clādēs malī
+	58  	siccāvit oculōs, quodque in extrēmīs solet,
+	59  	periēre lacrimae. portat hunc aeger parēns
+	60  	suprēmum ad ignem, māter hunc āmēns gerit
+	61  	properatque ut alium repetat in eundem rogum.
+	62  	quīn lūctū in ipsō lūctus exorītur novus,
+	63  	suaeque circā fūnus exsequiae cadunt.
+	64  	tum propria flammīs corpora aliēnīs cremant;
+	65  	dīripitur ignis, nūllus est miserīs pudor.
+	66  	nōn ossa tumulī lēcta discrētī tegunt:
+	67  	ārsisse satis est—pars quota in cinerēs abit!
+	68  	dēst terra tumulīs, iam rogōs silvae negant.
+	69  	nōn vōta, nōn ars ūlla correptōs levant:
+	70  	cadunt medentēs, morbus auxilium trahit.
+	71  	affūsus ārīs supplicēs tendō manūs
+	72  	mātūra poscēns fāta, praecurram ut prior
+	73  	patriam ruentem, nēve post omnēs cadam
+	74  	fīamque rēgnī fūnus extrēmum meī.
+	75  	ō saeva nimium nūmina, ō fātum grave!
+	76  	negātur ūnī nempe in hōc populō mihi
+	77  	mors tam parāta! sperne lētālī manū
+	78  	contācta rēgna, linque lacrimās, fūnera,
+	79  	tābifica caelī vitia quae tēcum invehis
+	80  	īnfaustus hospes, profuge iamdūdum ōcius—
+	81  	vel ad parentēs.
+	    	~iocasta~#quid iuvat, coniūnx, mala
+	82  	gravāre questū? rēgium hoc ipsum reor,
+	83  	adversa capere, quōque sit dubius magis
+	84  	status et cadentis imperī mōlēs labet,
+	85  	hōc stāre certō pressius fortem gradū.
+	86  	haud est virīle terga Fortūnae dare.
+	87  	~oedipus~#abest pavōris crīmen ac probrum procul,
+	88  	virtūsque nostra nescit ignāvōs metūs.
+	89  	sī tēla contrā stricta, sī vīs horrida
+	90  	Māvortis in mē rueret, adversus ferōs
+	91  	audāx Gigantas obviās ferrem manūs.
+	92  	nec Sphinga caecīs verba nectentem modīs
+	93  	fūgī: cruentōs vātis īnfandae tulī
+	94  	rictūs et albēns ossibus sparsīs solum;
+	95  	cumque ē supernā rūpe iam praedae imminēns
+	96  	aptāret ālās, verbera et caudae movēns
+	97  	saevī leōnis mōre conciperet minās,
+	98  	carmen poposcī. sonuit horrendum īnsuper,
+	99  	crepuēre mālae, saxaque impatiēns morae
+	100 	revulsit unguī vīscera expectāns mea.
+	101 	nōdōsa sortis verba et implexōs dolōs
+	102 	ac trīste carmen ālitis solvī ferae.
+	103 	quid sēra mortis vōta nunc dēmēns facis?
+	104 	licuit perīre. laudis hoc pretium tibi
+	105 	scēptrum et perēmptae Sphingis haec mercēs datur.
+	106 	ille, ille dīrus callidī mōnstrī cinis
+	107 	in nōs rebellat, illa nunc Thēbās luēs
+	108 	perēmpta perdit. ūna iam superest salūs,
+	109 	sī quam salūtis Phoebus ostendat viam.
+	110 	~chorus~#occīdis, Cadmī generōsa prōlēs,
+	111 	urbe cum tōtā; viduās colōnīs
+	112 	respicis terrās, miseranda Thēbē.
+	113 	carpitur lētō tuus ille, Bacche,
+	114 	mīles, extrēmōs comes usque ad Indōs,
+	115 	ausus Eōīs equitāre campīs,
+	116 	fīgere et mundō tua signa prīmō.
+	117 	cinnamī silvīs Arabās beātōs
+	118 	vīdit et versās equitis sagittās,
+	119 	terga fallācis metuenda Parthī;
+	120 	lītus intrāvit pelagī rubentis:
+	121 	prōmit hinc ortūs aperitque lūcem
+	122 	Phoebus et flammā propiōre nūdōs
+	123 	īnficit Indōs.
+	124 	stirpis invictae genus interīmus,
+	125 	lābimur saevō rapiente fātō.
+	126 	dūcitur semper nova pompa Mortī;
+	127 	longus ad manēs properātur ōrdō
+	128 	agminis maestī, seriēsque trīstis
+	129 	haeret et turbae tumulōs petentī
+	130 	nōn satis septem patuēre portae;
+	131 	stat gravis strāgēs, premiturque iūnctō
+	132 	fūnere fūnus.
+	133 	prīma vīs tardās tetigit bidentēs.
+	134 	lāniger pinguēs male carpsit herbās;
+	135 	colla tāctūrus steterat sacerdōs:
+	136 	dum manus certum parat alta vulnus,
+	137 	aureō taurus rutilante cornū
+	138 	lābitur sēgnis. patuit sub ictū
+	139 	ponderis vastī resolūta cervīx:
+	140 	nec cruor, ferrum maculāvit ātrā
+	141 	turpis ē plāgā saniēs profūsa.
+	142 	sēgnior cursū sonipēs in ipsō
+	143 	concīdit gȳrō, dominumque prōnō
+	144 	prōdidit armō.
+	145 	incubant agrīs pecudēs relictae;
+	146 	taurus armentō pereunte marcet;
+	147 	dēficit pāstor grege dēminūtō,
+	148 	tābidōs inter moriēns iuvencōs.
+	149 	nōn lupōs cervī metuunt rapācēs,
+	150 	cessat īrātī fremitus leōnis,
+	151 	nūlla villōsīs feritās in ursīs;
+	152 	perdidit pestem latebrōsa serpēns,
+	153 	āret et siccō moritur venēnō.
+	154 	nōn silva suā decorāta comā
+	155 	fundit opācīs montibus umbrās,
+	156 	nōn rūra virent ūbere glēbae,
+	157 	nōn plēna suō vītis Iacchō
+	158 	bracchia curvat:
+	159 	omnia nostrum sēnsēre malum.
+	160 	rūpēre Erebī claustra profundī
+	161 	turba sorōrum face Tartareā,
+	162 	Phlegethōnque suā mōtam rīpā
+	163 	miscuit undīs Styga Sīdoniīs.
+	164 	Mors ātra avidōs ōris hiātūs
+	165 	pandit et omnēs explicat ālās;
+	166 	quīque capācī turbida cumbā
+	167 	flūmina servat dūrus sēniō
+	168 	nāvita crūdō, vix assiduō
+	169 	bracchia contō lassāta refert,
+	170 	fessus turbam vectāre novam.
+	171 	quīn Taenariī vincula ferrī
+	172 	rūpisse canem fāma et nostrīs
+	173 	errāre locīs, mūgīsse solum,
+	174 	vaga per lūcōs <volitāsse sacrōs> simulācra virum
+	175 	maiōra virīs, bis Cadmēum
+	176 	nive discussā tremuisse nemus,
+	177 	bis turbātam sanguine Dircēn,
+	178 	nocte silentī
+	179 	<circā mūrōs> Amphīoniōs ululāsse canēs.
+	180 	ō dīra nōvī faciēs lētī
+	181 	gravior lētō! piger ignāvōs
+	182 	alligat artūs languor, et aegrō
+	183 	rubor in vultū, maculaeque cutem
+	184 	sparsēre levēs. tum vapor ipsam
+	185 	corporis arcem flammeus ūrit
+	186 	multōque genās sanguine tendit,
+	187a	oculīque rigent,
+	188b	resonant aurēs
+	189 	stillatque niger nāris aduncae
+	190 	cruor et vēnās rumpit hiantēs;
+	191 	intima crēber vīscera quassat
+	192a	gemitus strīdēns,
+	187b	et sacer ignis
+	188a	pāscitur artūs.
+	192b	iamque amplexū
+	193 	frīgida pressō saxa fatīgant;
+	194 	quōs līberior domus ēlātō
+	195 	cūstōde sinit, petitis fontēs
+	196 	aliturque sitis latice ingestō.
+	197 	prōstrāta iacet turba per ārās
+	198 	ōratque morī: sōlum hoc facilēs
+	199 	tribuēre deī. dēlūbra petunt,
+	200 	haud ut vōtō nūmina placent,
+	201 	sed iuvat ipsōs satiāre deōs.
+	202 	quisnam ille properō rēgiam gressū petit?
+	203 	adestne clārus sanguine ac factīs Creō
+	204 	an aeger animus falsa prō vērīs videt?
+	205 	adest petītus omnibus vōtīs Creō.
+	206 	~oedipus~#horrōre quatior, fāta quō vergant timēns,
+	207 	trepidumque geminō pectus affectū labat:
+	208 	ubi laeta dūrīs mixta in ambiguō iacent,
+	209 	incertus animus scīre cum cupiat timet.
+	210 	germāne nostrae coniugis, fessīs opem
+	211 	sī quam reportās, vōce properātā ēdocē.
+	212 	~creō~#respōnsa dubia sorte perplexā iacent.
+	213 	~oedipus~#dubiam salūtem quī dat afflīctīs negat.
+	214 	~creō~#ambāge flexā Delphicō mōs est deō
+	215 	arcāna tegere.
+	    	~oedipus~#fāre, sit dubium licet:
+	216 	ambigua sōlī nōscere Oedipodae datur.
+	217 	~creō~#caedem expiārī rēgiam exiliō deus
+	218 	et interēmptum Lāium ulcīscī iubet:
+	219 	nōn ante caelō lūcidus curret diēs
+	220 	haustūsque tūtōs aetheris pūrī dabit.
+	221 	~oedipus~#et quis perēmptor inclutī rēgis fuit?
+	222 	quem memoret ēde Phoebus, ut poenās luat.
+	223 	~creō~#sit, precor, dīxisse tūtum vīsū et audītū horrida;
+	224 	torpor īnsēdit per artūs, frīgidus sanguis coit.
+	225 	ut sacrāta templa Phoebī supplicī intrāvī pede
+	226 	et piās nūmen precātus rīte summīsī manūs,
+	227 	gemina Parnāsī nivālis arx trucem fremitum dedit;
+	228 	imminēns Phoebēa laurus tremuit et mōvit domum,
+	229 	ac repente sāncta fontis lympha Castaliī stetit.
+	230 	incipit Lētōa vātēs spargere horrentēs comās
+	231 	et patī commōta Phoebum; contigit nōndum specum,
+	232 	ēmicat vastō fragōre maior hūmānō sonus:
+	233 	“mītia Cadmēīs remeābunt sīdera Thēbīs,
+	234 	sī profugus Dircēn Ismēnida līquerit hospes
+	235 	rēgis caede nocēns, Phoebō iam nōtus et īnfāns.
+	236 	nec tibi longa manent scelerātae gaudia caedis:
+	237 	tēcum bella gerēs, nātīs quoque bella relinquēns,
+	238 	turpis māternōs iterum revolūtus in ortūs.”
+	239 	~oedipus~#quod facere monitū caelitum iussus parō,
+	240 	fūnctī cineribus rēgis hoc decuit darī,
+	241 	nē sāncta quisquam scēptra violāret dolō.
+	242 	rēgī tuenda maximē rēgum est salūs;
+	243 	quaerit perēmptum nēmo quem incolumem timet.
+	244 	~creō~#cūram perēmptī maior excussit timor.
+	245 	~oedipus~#pium prohibuit ūllus officium metus?
+	246 	~creō~#prohibent nefandī carminis trīstēs minae.
+	247 	~oedipus~#nunc expiētur nūminum imperiō scelus.
+	248 	quisquis deōrum rēgna plācātus vidēs:
+	249 	tū, tū penes quem iūra praecipitis polī,
+	250 	tūque, ō serēnī maximum mundī decus,
+	251 	bis sēna cursū signa quī variō legis,
+	252 	quī tarda celerī saecula ēvolvis rotā,
+	253 	sororque frātrī semper occurrēns tuō,
+	254 	noctivaga Phoebē, quīque ventōrum potēns
+	255 	aequor per altum caerulōs currūs agis,
+	256 	et quī cārentēs lūce dispōnis domōs,
+	257 	adeste! cuius Lāius dextrā occīdit,
+	258 	hunc nōn quiēta tēcta, nōn fīdī larēs,
+	259 	nōn hospitālis exulem tellūs ferat;
+	260 	thalamīs pudendīs doleat et prōle impiā;
+	261 	hic et parentem dexterā perimat suā,
+	262 	faciatque (num quid gravius optārī potest?)
+	263 	quidquid ego fūgī. nōn erit veniae locus.
+	264 	per rēgna iūrō quaeque nunc hospes gerō
+	265 	et quae relīquī, perque penetrālēs deōs,
+	266 	per tē, pater Neptūne, quī flūctū levī
+	267 	utrimque nostrō geminus allūdis solō;
+	268 	et ipse nostrīs vōcibus testis venī,
+	269 	fātidica vātis ōra Cirrhaeae movēns.
+	270 	ita molle senium dūcat et summum diem
+	271 	sēcūrus altō reddat in soliō parēns,
+	272 	sōlāsque Meropē nōverit Polybī facēs,
+	273 	ut nūlla sontem grātia ēripiet mihi.
+	274 	sed quō nefandum facinus admissum locō est?
+	275 	memorāte: apertō marte an īnsidiīs iacet?
+	276 	~creō~#frondifera sānctae nemora Castaliae petēns
+	277 	calcāvit artīs obsitum dūmīs iter,
+	278 	trigemina quā sē spargit in campōs via.
+	279 	secat ūna grātum Phocidos Bacchō solum,
+	280 	unde altus arva dēserit, caelum petēns,
+	281 	clēmenter āctō colle Parnāsos biceps;
+	282 	at ūna bimarēs Sīsyphī terrās adit;
+	283 	Ōlenia in arva tertius trāmes cavā
+	284 	convalle serpēns tangit errantēs aquās
+	285 	gelidumque dirimit amnis Ēvēnī vadum.
+	286 	hīc pāce fretum subitā praedōnum manus
+	287 	aggressa ferrō facinus occultum tulit.
+	288 	in tempore ipsō sorte Phoebēā excitus
+	289 	Tīresia tremulō tardus accelerat genū
+	290 	comesque Mantō lūce viduātum trahēns.
+	291 	~oedipus~#sacrāte dīvīs, proximum Phoebō caput,
+	292 	respōnsa solve; fāre, quem poenae petant.
+	293 	~tīresia~#quod tarda fātū est lingua, quod quaerit morās,
+	294 	haud tē quidem, magnanime, mīrārī addecet:
+	295 	vīsū cārentī magna pars vērī latet.
+	296 	sed quō vocat mē patria, quō Phoebus, sequar:
+	297 	fāta ēruantur; sī foret viridis mihi
+	298 	calidusque sanguis, pectore exciperem deum.
+	299 	appellite ārīs candidum tergō bovem
+	300 	curvōque numquam colla dēpressam iugō.
+	301 	tū lūcis inopem, nāta, genitōrem regēns
+	302 	manifēsta sacrī signa fātidicī refer.
+	303 	~mantō~#opīma sānctās victima ante ārās stetit.
+	304 	~tīresia~#in vōta superōs vōce sollemnī vocā,
+	305 	arāsque dōnō tūris Eōī exstrue.
+	306 	~mantō~#iam tūra sacrīs caelitum ingessī focīs.
+	307 	~tīresia~#quid flamma? largās iamne comprēndit dapēs?
+	308 	~mantō~#subitō refulsit lūmine et subitō occīdit.
+	309 	~tīresia~#utrumne clārus ignis et nitidus stetit
+	310 	rēctusque pūrum verticem caelō tulit
+	311 	et summam in aurās fūsus explicuit comam?
+	312 	an latera circā serpit incertus viae
+	313 	et fluctuante turbidus fūmō labat?
+	314 	~mantō~#nōn ūna faciēs mōbilis flammae fuit:
+	315 	imbrifera quālis implicat variōs sibi
+	316 	Īris colōrēs, parte quae magnā polī
+	317 	curvāta pictō nūntiat nimbōs sinū
+	318 	(quis dēsit illī quīve sit dubitēs color),
+	319 	caerulea fulvīs mixta oberrāvit notīs,
+	320 	sanguinea rūrsus; ultima in tenebrās abît.
+	321 	sed ecce pugnāx ignis in partēs duās
+	322 	discēdit, et sē scindit ūnīus sacrī
+	323 	discors favīlla. genitor, horrēscō intuēns:
+	324 	lībāta Bacchī dōna permūtat cruor,
+	325 	ambitque dēnsus rēgium fūmus caput
+	326 	ipsōsque circā spissior vultūs sedet
+	327 	et nūbe dēnsā sordidam lūcem abdidit.
+	328 	quid sit, parēns, effāre.
+	    	~tīresia~#quid fārī queam
+	329 	inter tumultūs mentis attonitae vagus?
+	330 	quidnam loquar? sunt dīra, sed in altō mala.
+	331 	solet īra certīs nūminum ostendī notīs;
+	332 	quid istud est quod esse prōlātum volunt
+	333 	iterumque nōlunt et trucēs īrās tegunt?
+	334 	pudet deōs nescioquid. hūc properē admovē
+	335 	et sparge salsā colla taurōrum molā.
+	336 	placidōne vultū sacra et admōtās manūs
+	337 	patiuntur?
+	    	~mantō~#altum taurus attollēns caput
+	338 	prīmōs ad ortūs positus expāvit diem
+	339 	trepidusque vultum oblīquat et radiōs fugit.
+	340 	~tīresia~#ūnōne terram vulnere afflīctī petunt?
+	341 	~mantō~#iuvenca ferrō sēmet oppositō induit
+	342 	et vulnere ūnō cecidit; at taurus duōs
+	343 	perpessus ictūs hūc et hūc dubius ruit
+	344 	animamque fessus vix reluctantem exprimit.
+	345 	~tīresia~#utrum citātus vulnere angustō micat
+	346 	an lentus altās irrigat plāgās cruor?
+	347 	~mantō~#huius per ipsam quā patet pectus viam
+	348 	effūsus amnis, huius exiguō gravēs
+	349 	maculantur ictūs imbre; sed versus retrō
+	350 	per ōra multus sanguis atque oculōs redit.
+	351 	~tīresia~#īnfausta magnōs sacra terrōrēs cient.
+	352 	sed ēde certās vīscerum nōbīs notās.
+	353 	~mantō~#genitor, quid hoc est? nōn levī mōtū, ut solent,
+	354 	agitāta trepidant exta, sed tōtās manūs
+	355 	quatiunt, novusque prōsilit vēnīs cruor.
+	356 	cor marcet aegrum penitus ac mersum latet,
+	357 	līventque vēnae. magna pars fibrīs abest
+	358 	et felle nigrō tābidum spūmat iecur,
+	359 	ac (semper ōmen ūnicō imperiō grave)
+	360 	ēn capita paribus bīna cōnsurgunt torīs;
+	361 	sed utrumque caesum tenuis abscondit caput
+	362 	membrāna, latebram rēbus occultīs negāns.
+	363 	hostīle validō rōbore īnsurgit latus
+	364 	septemque vēnās tendit; hās omnēs retrō
+	365 	prohibēns revertī līmes oblīquus secat.
+	366 	mūtātus ōrdō est, sēde nīl propriā iacet,
+	367 	sed ācta retrō cūncta: nōn animae capāx
+	368 	in parte dextrā pulmo sanguineus iacet,
+	369 	nōn laeva cordī regio, nōn mollī ambitū
+	370 	ōmenta pinguēs viscerī obtendunt sinūs.
+	371 	nātūra versa est; nūlla lēx uterō manet.
+	372 	scrūtēmur, unde tantus hic extīs rigor.
+	373 	quod hoc nefās? conceptus innūptae bovis!
+	374 	nec mōre solitō positus aliēnō in locō
+	375 	implet parentem. membra cum gemitū movet,
+	376 	rigōre tremulō dēbilēs artūs micant.
+	377 	—īnfēcit ātrās līvidus fibrās cruor
+	378 	temptantque turpēs mōbilem truncī gradum,
+	379 	et ināne surgit corpus ac sacrōs petit
+	380 	cornū ministrōs; vīscera effugiunt manum.
+	381 	neque ista, quae tē pepulit, armentī gravis
+	382 	vōx est nec usquam territī resonant gregēs:
+	383 	immūgit ārīs ignis et trepidant focī.
+	384 	~oedipus~#quid ista sacrī signa terrificī ferant
+	385 	exprōme; vōcēs aure nōn timidā hauriam.
+	387 	~tīresia~#hīs invidēbis quibus opem quaeris malīs.
+	388 	~oedipus~#memorā quod ūnum scīre caelicolae volunt,
+	389 	contāminārit rēge quis caesō manūs.
+	390 	~tīresia~#nec alta caelī quae levī pinnā secant
+	391 	nec fibra vīvīs rapta pectoribus potest
+	392 	ciēre nōmen. alia temptanda est via:
+	393 	ipse ēvocandus noctis aeternae plāgīs,
+	394 	ēmissus Erebō ut caedis auctōrem indicet.
+	395 	reseranda tellūs, Dītis implācābile
+	396 	nūmen precandum, populus īnfernae Stygis
+	397 	hūc extrahendus. ēde cui mandēs sacrum;
+	398 	nam tē, penes quem summa rēgnōrum, nefās
+	399 	invīsere umbrās.
+	    	~oedipus~#tē, Creō, hic poscit labor,
+	400 	ad quem secundum rēgna respiciunt mea.
+	401 	~tīresia~#dum nōs profundae claustra laxāmus Stygis,
+	402 	populāre Bacchī laudibus carmen sonet.
+	403 	~chorus~#effūsam redimite comam nūtante corymbō,
+	405 	mollia Nȳsaeīs armātus bracchia thyrsīs.
+	404 	lūcidum caelī decus, hūc ades vōtīs,
+	406 	quae tibi nōbilēs Thēbae, Bacche, tuae
+	407 	palmīs supplicibus ferunt.
+	408 	hūc adverte favēns virgineum caput,
+	409 	vultū sīdereō discute nūbila
+	410 	et trīstēs Erebī minās
+	411 	avidumque fātum.
+	412 	tē decet cingī comam flōribus vernīs,
+	413 	tē caput Tyriā cohibēre mitrā
+	414 	hederāve mollem bāciferā
+	415 	religāre frontem,
+	416 	spargere effūsōs sine lēge crīnēs,
+	417 	rūrsus adductō revocāre nōdō:
+	418 	quālis īrātam metuēns novercam
+	419 	crēverās falsōs imitātus artūs,
+	420 	crīne flāventī simulāta virgō,
+	421 	lūteā vestem retinente zōnā.
+	422 	inde tam mollēs placuēre cultūs
+	423 	et sinūs laxī fluidumque syrma.
+	424 	vīdit aurātō residēre currū,
+	425 	veste cum longā regere et leōnēs,
+	426 	omnis Eōae plāga vasta terrae,
+	427 	quī bibit Gangēn niveumque quisquis
+	428 	frangit Araxēn.
+	429 	tē senior turpī sequitur Sīlēnus asellō,
+	430 	turgida pampineīs redimītus tempora sertīs;
+	431 	condita lascīvī dēdūcunt orgia mystae.
+	432 	tē Bassaridum comitāta cohors
+	433 	nunc Ēdōnō pede pulsāvit
+	434 	sola Pangaeō, nunc Thrēiciō
+	435a	vertice Pindī.
+	439 	tibi commōtae pectora mātrēs
+	440a	fūdēre comam.
+	435b	nunc Cadmēās
+	436 	inter mātrēs impia maenās
+	437 	comes Ōgygiō venit Iacchō,
+	438 	nebride sacrā praecīncta latus
+	440b	thyrsumque levem
+	441 	vibrante manū. iam post lacerōs
+	442 	Penthēōs artūs Thȳades oestrō
+	443 	membra remissae velut ignōtum
+	444 	vīdēre nefās.
+	445 	pontī rēgna tenet nitidī mātertera Bacchī,
+	446 	Nēreidumque chorīs Cadmēia cingitur Īnō;
+	447 	iūs habet in flūctūs magnī puer advena pontī,
+	448 	cognātus Bacchī, nūmen nōn vīle Palaemōn.
+	449 	tē Tyrrhēna, puer, rapuit manus,
+	450 	et tumidum Nēreus posuit mare,
+	451 	caerula cum prātīs mūtat freta.
+	452 	hinc vernō platanus foliō viret
+	453 	et Phoebō laurus cārum nemus;
+	454 	garrula per rāmōs avis obstrepit;
+	455 	vīvācēs hederās rēmus tenet,
+	456 	summa ligat vītis carchēsia;
+	457 	Īdaeus prōrā fremuit leō,
+	458 	tigris puppe sedet Gangētica.
+	459 	tum pīrāta fretō pavidus natat,
+	460 	et nova dēmersōs faciēs habet:
+	461 	bracchia prīma cadunt praedōnibus
+	462 	illīsumque uterō pectus coit,
+	463 	parvula dēpendet laterī manus,
+	464 	et dorsō flūctum curvō subit,
+	465 	lūnātā scindit caudā mare:
+	466 	et sequitur curvus fugientia carbasa delphin.
+	467 	dīvite Pactōlus vēxit tē Lȳdius undā,
+	468 	aurea torrentī dēdūcēns flūmina rīpā;
+	469 	laxāvit vīctōs arcūs Geticāsque sagittās
+	470 	lactea Massagetēs quī pōcula sanguine miscet;
+	471 	rēgna securigērī Bacchum sēnsēre Lycūrgī,
+	472 	sēnsēre terrae Zalacum ferōcēs
+	473 	et quōs vīcīnus Boreās ferit
+	474 	arva mūtantēs, quāsque Maeōtis
+	475 	alluit gentēs frīgidō flūctū,
+	476 	quāsque dēspectat vertice ē summō
+	477 	sīdus Arcadium geminumque plaustrum.
+	478 	ille dispersōs domuit Gelōnōs,
+	479 	arma dētrāxit trucibus puellīs:
+	480 	ōre dēiectō petiēre terram
+	481 	Thermōdontiacae catervae,
+	482 	positīsque tandem levibus sagittīs
+	483 	Maenades factae. sacer Cithaerōn
+	484 	sanguine undāvit
+	485 	Ophīoniāque caede;
+	486 	Proetides silvās petiēre, et Argos
+	487 	praesente Bacchum coluit novercā.
+	488 	Naxos Aegaeō redimita pontō
+	489 	trādidit thalamīs virginem relictam,
+	490 	meliōre pēnsāns damna marītō.
+	491 	pūmice ex siccō
+	492 	flūxit Nyctelius latex;
+	493 	garrulī grāmen secuēre rīvī,
+	494 	conbibit dulcēs humus alta sūcōs
+	495 	niveīque lactis candidōs fontēs
+	496 	et mixta odōrō Lesbia cum thymō.
+	497 	dūcitur magnō nova nūpta caelō;
+	498 	sollemne Phoebus carmen
+	499 	īnfūsīs humerō capillīs
+	500 	cantat et geminus Cupīdō concutit taedās;
+	501 	tēlum dēposuit Iuppiter igneum
+	502 	ōditque Bacchō veniente fulmen.
+	503 	lūcida dum current annōsī sīdera mundī,
+	504 	Ōceanus clausum dum flūctibus ambiet orbem,
+	505 	lūnaque dīmissōs dum plēna recolliget ignēs,
+	506 	dum mātūtīnōs praedīcet Lūcifer ortūs,
+	507 	altaque caeruleum dum Nerea nesciet Arctos,
+	508 	candida fōrmōsī venerābimur ōra Lyaeī.
+	509 	~oedipus~#etsī ipse vultus flēbilēs praefert notās,
+	510 	exprōme cuius capite placēmus deōs.
+	511 	~creō~#fārī iubēs tacēre quae suādet metus.
+	512 	~oedipus~#sī tē ruentēs nōn satis Thēbae movent,
+	513 	at scēptra moveant lāpsa cognātae domūs.
+	514 	~creō~#nescīsse cupiēs nōsse quae nimium expetis.
+	515 	~oedipus~#iners malōrum remedium ignōrantia est.
+	516 	itane et salūtis pūblicae indicium obruēs?
+	517 	~creō~#ubi turpis est medicīna, sānārī piget.
+	518 	~oedipus~#audīta fāre, vel malō domitus gravī
+	519 	quid arma possint rēgis īrātī sciēs.
+	520 	~creō~#ōdēre rēgēs dicta quae dīcī iubent.
+	521 	~oedipus~#mitteris Erebō vīle prō cūnctīs caput,
+	522 	arcāna sacrī vōce nī retegis tuā.
+	523 	~creō~#tacēre liceat. ūlla lībertās minor
+	524 	ā rēge petitur?
+	    	~oedipus~#saepe vel linguā magis
+	525 	rēgī atque rēgnō mūta lībertās obēst.
+	526 	~creō~#ubi nōn licet tacēre, quid cuiquam licet?
+	527 	~oedipus~#imperia solvit quī tacet iussus loquī.
+	528 	~creō~#coācta verba placidus accipiās precor.
+	529 	~oedipus~#ūllīne poena vōcis expressae fuit?
+	530 	~creō~#est procul ab urbe lūcus īlicibus niger
+	531 	Dircaea circā vallis irriguae loca.
+	532 	cupressus altīs exserēns silvīs caput
+	533 	virente semper alligat truncō nemus,
+	534 	curvōsque tendit quercus et putrēs sitū
+	535 	annōsa rāmōs: huius abrūpit latus
+	536 	edāx vetustās; illa, iam fessā cadēns
+	537 	rādīce, fulta pendet aliēnā trabe.
+	538 	amāra bācās laurus et tiliae levēs
+	539 	et Paphia myrtus et per immēnsum mare
+	540 	mōtūra rēmōs alnus et Phoebō obvia
+	541 	ēnōde Zephyrīs pīnus oppōnēns latus.
+	542 	mediō stat ingēns arbor atque umbrā gravī
+	543 	silvās minōrēs urget et magnō ambitū
+	544 	diffūsa rāmōs ūna dēfendit nemus.
+	545 	trīstis sub illā, lūcis et Phoebī īnscius,
+	546 	restāgnat ūmor frīgore aeternō rigēns;
+	547 	līmōsa pigrum circumit fontem palūs.
+	548 	hūc ut sacerdōs intulit senior gradum,
+	549 	haud est morātus: praestitit noctem locus.
+	550 	tum effossa tellūs, et super raptī rogīs
+	551 	iaciuntur ignēs. ipse fūnestō integit
+	552 	vātēs amictū corpus et frondem quatit,
+	553 	lūgubris īmōs palla perfundit pedēs;
+	554 	squālente cultū maestus ingreditur senex,
+	555 	mortifera cānam taxus astringit comam.
+	556 	nigrō bidentēs vellere atque ātrae bovēs
+	557 	antrō trahuntur. flamma praedātur dapēs,
+	558 	vīvumque trepidat igne fērālī pecus.
+	559 	vocat inde manēs tēque quī manēs rēgis
+	560 	et obsīdentem claustra lētālis lacūs,
+	561 	carmenque magicum volvit et rabidō mināx
+	562 	dēcantat ōre quidquid aut plācat levēs
+	563 	aut cōgit umbrās; sanguinem lībat focīs
+	564 	solidāsque pecudēs ūrit et multō specum
+	565 	saturat cruōre; lībat et niveum īnsuper
+	566 	lactis liquōrem, fundit et Bacchum manū
+	567 	laevā, canitque rūrsus ac terram intuēns
+	568 	graviōre mānēs vōce et attonitā citat.
+	569 	lātrāvit Hecatēs turba; ter vallēs cavae
+	570 	sonuēre maestum, tōta succussō solō
+	571 	pulsāta tellūs. “audior,” vātēs aït,
+	572 	“rata verba fūdī: rumpitur caecum chaos,
+	573 	iterque populīs Dītis ad superōs datur.”
+	574 	subsēdit omnis silva et ērēxit comās,
+	575 	dūxēre rīmās rōbora et tōtum nemus
+	576 	concussit horror; terra sē retrō dēdit
+	577 	gemuitque penitus, sīve temptārī abditum
+	578 	Acherōn profundum mente nōn aequā tulit,
+	579 	sīve ipsa tellūs, ut daret fūnctīs viam,
+	580 	compāge ruptā sonuit, aut īrā furēns
+	581 	triceps catēnās Cerberus mōvit gravēs.
+	582 	subitō dēhīscit terra et immēnsō sinū
+	583 	laxāta patuit. ipse pallentēs deōs
+	584 	vīdī inter umbrās, ipse torpentēs lacūs
+	585 	noctemque vēram: gelidus in vēnīs stetit
+	586 	haesitque sanguis. saeva prōsiluit cohors
+	587 	et stetit in armīs omne vīpereum genus,
+	588 	frātrum catervae dente Dircaeō satae.
+	590 	tum torva Erīnys sonuit et caecus Furor
+	591 	Horrorque et ūnā quidquid aeternae creant
+	592 	cēlantque tenebrae: Lūctus āvellēns comam
+	593 	aegrēque lassum sustinēns Morbus caput,
+	594 	gravis Senectūs sibimet et pendēns Metus
+	589 	avidumque populī Pestis Ōgygiī malum.
+	595 	nōs līquit animus; ipsa quae rītūs senis
+	596 	artēsque nōrat stupuit. intrepidus parēns
+	597 	audāxque damnō convocat Dītis ferī
+	598 	exsangue vulgus. īlicō, ut nebulae levēs,
+	599 	volitant et aurās līberō caelō trahunt.
+	600 	nōn tot cadūcās ēducat frondēs Eryx,
+	601 	nec vēre flōrēs Hybla tot mediō creat
+	602 	cum exāmen artō nectitur dēnsum globō,
+	603 	flūctūsque nōn tot frangit Īōnium mare,
+	604 	nec tanta gelidī Strȳmonis fugiēns minās
+	605 	permūtat hiemēs āles et caelum secāns
+	606 	tepente Nīlō pēnsat Arctōās nivēs,
+	607 	quot ille populōs vātis ēdūxit sonus.
+	608 	pavidē latebrās nemoris umbrōsī petunt
+	609 	animae trementēs. prīmus ēmergit solō,
+	610 	dextrā ferōcem cornibus taurum premēns,
+	611 	Zēthus; manūque sustinēns laevā chelyn
+	612 	quī saxa dulcī trāxit Amphīōn sonō,
+	613 	interque nātōs Tantalis tandem suōs
+	614 	tūtō superba fert caput fastū grave
+	615 	et numerat umbrās. peior hāc genetrīx adest
+	616 	furibunda Agāvē, tōta quam sequitur manus
+	617 	partīta rēgem; sequitur et Bacchās lacer
+	618 	Penthēus tenetque saevus etiamnunc minās.
+	619 	tandem vocātus saepe pudibundum extulit
+	620 	caput atque ab omnī dissīdet turbā procul
+	621 	cēlatque sēmet. īnstat et Stygiās precēs
+	622 	geminat sacerdōs, dōnec in apertum efferat
+	623 	vultūs opertōs Lāius—fārī horreō.
+	624 	stetit per artūs sanguine effūsō horridus,
+	625 	paedōre foedō squālidam obtentus comam,
+	626 	et ōre rabidō fātur: “ō Cadmī effera,
+	627 	cruōre semper laeta cognātō domus,
+	628 	vibrāte thyrsōs, entheā nātōs manū
+	629 	lacerāte potius! maximum Thēbīs scelus
+	630 	māternus amor est. patria, nōn īrā deum,
+	631 	sed scelere raperis: nōn gravī flātū tibi
+	632 	lūctificus Auster nec parum pluviō aethere
+	633 	satiāta tellūs hālitū siccō nocet
+	634 	sed rēx cruentus, pretia quī saevae necis
+	635 	scēptra et nefandōs occupat thalamōs patris,
+	638 	ēgitque in ortūs sēmet et mātrī impiōs
+	639 	fētūs regessit, quīque vix mōs est ferīs,
+	640 	frātrēs sibi ipse genuit—implicitum malum,
+	641 	magisque mōnstrum Sphinge perplexum suā.
+	642 	tē, tē cruentā scēptra quī dextrā geris,
+	643 	tē pater inultus urbe cum tōtā petam
+	644 	et mēcum Erīnyn prōnubam thalamī traham,
+	645 	traham sonantēs verberā, incestam domum
+	646 	vertam et penātēs impiō marte obteram.
+	647 	“proinde pulsum fīnibus rēgem ōcius
+	648 	agite exulem. quodcumque fūnestō gradū
+	649 	sōlum relinquet, vēre flōriferō virēns
+	650 	reparābit herbās; spīritūs pūrōs dabit
+	651 	vītālis aura, veniet et silvīs decor;
+	652 	Lētum Luēsque, Mors Labor Tabēs Dolor,
+	653 	comitātus illō dignus, excēdent simul.
+	654 	et ipse rapidīs gressibus sēdēs volet
+	655 	effugere nostrās, sed gravēs pedibus morās
+	656 	addam et tenēbō: rēpet incertus viae,
+	657 	baculō senīlī trīste praetemptāns iter.
+	658 	ēripite terrās, auferam caelum pater.”
+	659 	~oedipus~#et ossa et artūs gelidus invāsit tremor:
+	660 	quidquid timēbam facere fēcisse arguor.
+	661 	—torī iugālis abnuit Meropē nefās
+	662 	sociāta Polybō; sospes absolvit manūs
+	663 	Polybus meās: uterque dēfendit parēns
+	664 	caedem stuprumque. quis locus culpae est super?
+	665 	multō ante Thēbae Lāium āmissum gemunt,
+	666 	Boeōta gressū quam meō tetigī loca.
+	667 	falsusne senior an deus Thēbīs gravis?
+	668 	—iam iam tenēmus callidī sociōs dolī:
+	669 	mentītur ista praeferēns fraudī deōs
+	670 	vātēs, tibique scēptra dēspondet mea.
+	671 	~creō~#egone ut sorōrem rēgiā expellī velim?
+	672 	sī mē fidēs sacrāta cognātī laris
+	673 	nōn continēret in meō certum statū,
+	674 	tamen ipsa mē fortūna terrēret nimis
+	675 	sollicita semper. liceat hoc tūtō tibi
+	676 	exuere pondus nec recēdentem opprimat;
+	677 	iam tē minōre tūtior pōnēs locō.
+	678 	~oedipus~#hortārīs etiam, sponte dēpōnam ut meā
+	679 	tam gravia rēgna?
+	    	~creō~#suādeam hoc illīs ego,
+	680 	in utrumque quīs est līber etiamnunc status:
+	681 	tibi iam necesse est ferre fortūnam tuam.
+	682 	~oedipus~#certissima est rēgnāre cupientī via
+	683 	laudāre modica et ōtium ac somnum loquī;
+	684 	ab inquiētō saepe simulātur quiēs.
+	685 	~creō~#parumne mē tam longa dēfendit fidēs?
+	686 	~oedipus~#aditum nocendī perfidō praestat fidēs.
+	687 	~creō~#solūtus onere rēgiō rēgnī bonīs
+	688 	fruor, domusque cīvium coetū viget;
+	689 	nec ūlla vicibus surgit alternīs diēs
+	690 	quā nōn propinquī mūnera ad nostrōs larēs
+	691 	scēptrī redundent: cultus, opulentae dapēs,
+	692 	dōnāta multīs grātiā nostrā salūs.
+	693 	quid tam beātae dēsse fortūnae rear?
+	694 	~oedipus~#quod dēst: secunda nōn habent umquam modum.
+	695 	~creō~#incognitā igitur ut nocēns causā cadam?
+	696 	~oedipus~#num ratio vōbīs reddita est vītae meae?
+	697 	num audīta causa est nostra Tīresiae? tamen
+	698 	sontēs vidēmur. facitis exemplum: sequor.
+	699 	~creō~#quid sī innocēns sum?
+	    	~oedipus~#dubia prō certīs solent
+	700 	timēre rēgēs.
+	    	~creō~#quī pavet vānōs metūs,
+	701 	vērōs merētur.
+	    	~oedipus~#quisquis in culpā fuit,
+	702 	dīmissus ōdit: omne quod dubium est cadat.
+	703 	~creō~#sīc odia fīunt.
+	    	~oedipus~#odia quī nimium timet
+	704 	rēgnāre nescit: rēgna cūstōdit metus.
+	705 	~creō~#quī scēptra dūrō saevus imperiō gerit,
+	706 	timet timentēs: metus in auctōrem redit.
+	707 	~oedipus~#servāte sontem saxeō inclūsum specū.
+	708 	ipse ad penātēs rēgiōs referam gradum.
+	709 	~chorus~#nōn tū tantīs causa perīclīs,
+	710 	nōn hinc Labdacidās petunt
+	711 	fāta, sed veterēs deum
+	712 	īrae sequuntur. Castalium nemus
+	713 	umbram Sīdoniō praebuit hospitī
+	714 	lāvitque Dircē Tyriōs colōnōs,
+	715 	ut prīmum magnī nātus Agēnoris,
+	716 	fessus per orbem fūrta sequī Iovis,
+	717 	sub nostrā pavidus cōnstitit arbore
+	718 	praedōnem venerāns suum,
+	719 	monitūque Phoebī iussus errantī
+	720 	comes īre vaccae, quam nōn flexerat
+	721 	vomer aut tardī iuga curva plaustrī,
+	722 	dēseruit fugās nōmenque gentī
+	723 	inauspicātā dē bove trādidit.
+	724 	tempore ex illō nova mōnstra semper
+	725 	prōtulit tellūs. aut anguis īmīs
+	726 	vallibus ēditus annōsa circā
+	727 	rōbora sībilat, superatque pīnūs,
+	728 	suprā Chāoniās celsior arborēs
+	729 	ērēxit caeruleum caput,
+	730 	cum maiōre suī parte recumberet;
+	731 	aut fēta tellūs impiō partū
+	732 	effūdit arma:
+	733 	sonuit reflexō classicum cornū
+	734 	lituusque aduncō strīdulōs cantūs
+	735 	ēlīsit aere	* * * nōn ante linguās
+	736 	agilēs et ōra vōcis ignōtae
+	737 	clāmōre prīmum hosticō expertī.
+	738 	agmina campōs cognāta tenent,
+	739 	dignaque iactō sēmine prōlēs,
+	740 	ūnō aetātem permēnsa diē,
+	741 	post Lūciferī nāta meātūs
+	742 	ante Hesperiōs occīdit ortūs.
+	743 	horret tantīs advena mōnstrīs
+	744 	populīque timet bella recentis,
+	745 	dōnec cecidit saeva iuventūs
+	746 	genetrīxque suō reddī gremiō
+	747 	modo prōductōs vīdit alumnōs.
+	748 	hāc trānsierit cīvīle nefās!
+	749 	illa Herculeae norint Thēbae
+	750 	proelia frātrum.
+	751 	quid Cadmēī fāta nepōtis,
+	752 	cum vīvācis cornua cervī
+	753 	frontem rāmīs texēre novīs
+	754 	dominumque canēs ēgēre suum?
+	755 	praeceps silvās montēsque fūgit
+	756 	citus Actaeōn, agilīque magis
+	757 	pede per saltūs ac saxa vagus
+	758 	metuit mōtās zephyrīs plūmās
+	759 	et quae posuit rētia vītat—
+	760 	dōnec placidī fontis in undā
+	761 	cornua vīdit vultūsque ferōs,
+	762 	ubi virgineōs fōverat artūs
+	763 	nimium saevī dīva pudōris.
+	764 	~oedipus~#cūrās revolvit animus et repetit metūs.
+	765 	obīsse nostrō Lāium scelere autumant
+	766 	superī īnferīque, sed animus contrā innocēns
+	767 	sibique melius quam deīs nōtus negat.
+	768 	redit memoria tenue per vestīgium,
+	769 	cecidisse nostrī stīpitis pulsū obvium
+	770 	datumque Dītī, cum prior iuvenem senex
+	771 	currū superbus pelleret, Thēbīs procul
+	772 	Phōcaea trifidās regio quā scindit viās.
+	773 	ūnanima coniūnx, explicā errōrēs, precor:
+	774 	quae spatia moriēns Lāius vītae tulit?
+	775 	prīmōne in aevō viridis an frāctō occīdit?
+	776 	~iocasta~#inter senem iuvenemque, sed propior senī.
+	777 	~oedipus~#frequēnsne turba rēgium cīnxit latus?
+	778 	~iocasta~#plūrēs fefellit error ancipitis viae,
+	779 	paucōs fidēlis curribus iūnxit labor.
+	780 	~oedipus~#aliquisne cecidit rēgiō fātō comes?
+	781 	~iocasta~#ūnum fidēs virtūsque cōnsortem addidit.
+	782 	~oedipus~#teneō nocentem: convenit numerus, locus—
+	783 	sed tempus adde.
+	    	~iocasta~#decima iam mētītur seges.
+	784 	~senex~#Corinthius tē populus in rēgnum vocat
+	785 	patrium: quiētem Polybus aeternam obtinet.
+	786 	~oedipus~#ut undique in mē saeva Fortūna irruit!
+	787 	ēdissere agedum, quō cadat fātō parēns.
+	788 	~senex~#animam senīlem mollis exsolvit sopor.
+	789 	~oedipus~#genitor sine ūllā caede dēfūnctus iacet.
+	790 	testor, licet iam tollere ad caelum piē
+	791 	pūrās nec ūlla scelera metuentēs manūs.
+	792 	sed pars magis metuenda fātōrum manet.
+	793 	~senex~#omnem paterna rēgna discutient metum.
+	794 	~oedipus~#repetam paterna rēgna; sed mātrem horreō.
+	795 	~senex~#metuis parentem, quae tuum reditum expetēns
+	796 	sollicita pendet?
+	    	~oedipus~#ipsa mē pietās fugat.
+	797 	~senex~#viduam relinquēs?
+	    	~oedipus~#tangis ēn ipsōs metūs.
+	798 	~senex~#effāre mersus quis premat mentem timor;
+	799 	praestāre tacitam rēgibus soleō fidem.
+	800 	~oedipus~#cōnūbia mātris Delphicō monitū tremō.
+	801 	~senex~#timēre vāna dēsine et turpēs metūs
+	802 	dēpōne. Meropē vēra nōn fuerat parēns.
+	803 	~oedipus~#quod subditīvī praemium nātī petit?
+	804 	~senex~#rēgum superbam līberī astringunt fidem.
+	805 	~oedipus~#sēcrēta thalamī fāre quō excipiās modō.
+	806 	~senex~#hae tē parentī parvulum trādunt manūs.
+	807 	~oedipus~#tū mē parentī trādis; at quis mē tibi?
+	808 	~senex~#pāstor nivōsō sub Cithaerōnis iugō.
+	809 	~oedipus~#in illa tēmet nemora quis cāsus tulit?
+	810 	~senex~#illō sequēbar monte cornigērōs gregēs.
+	811 	~oedipus~#nunc adice certās corporis nostrī notās.
+	812 	~senex~#forāta ferrō gesserās vestīgia,
+	813 	tumōre nactus nōmen ac vitiō pedum.
+	814 	~oedipus~#quis fuerit ille quī meum dōnō dedit
+	815 	corpus requīrō.
+	    	~senex~#rēgiōs pāvit gregēs;
+	816 	minor sub illō turba pāstōrum fuit.
+	817 	~oedipus~#ēloquere nōmen.
+	    	~senex~#prīma languēscit senum
+	818 	memoria, longō lassa sublābēns sitū.
+	819 	~oedipus~#potesne faciē nōscere ac vultū virum?
+	820 	~senex~#fortasse nōscam: saepe iam spatiō obrutam
+	821 	levis exolētam memoriam revocat nota.
+	822 	~oedipus~#ad sacra et ārās omne compulsum pecus
+	823 	ducēs sequuntur: īte, properē accersite,
+	824 	famulī, penes quem summa cōnsistit gregum.
+	825 	~iocasta~#sīve ista ratio sīve fortūna occulit,
+	826 	latere semper patēre quod latuit diū:
+	827 	saepe ēruentis veritās patuit malō.
+	828 	~oedipus~#malum timērī maius hīs aliquod potest?
+	829 	~iocasta~#magnum esse magnā mōle quod petitur sciās.
+	830 	concurrit illinc pūblica, hinc rēgis salūs,
+	831 	utrimque paria; continē mediās manūs.
+	832 	nihil lacessās, ipsa sē fāta explicent.
+	833 	~oedipus~#nōn expedit concutere fēlīcem statum:
+	834 	tūtō movētur quidquid extrēmō in locō est.
+	835 	~iocasta~#nōbilius aliquid genere rēgālī appetis?
+	836 	nē tē parentis pigeat inventī vidē.
+	837 	~oedipus~#vel paenitendī sanguinis quaeram fidem:
+	838 	sīc nōsse certum est.—ecce grandaevus senex,
+	839 	arbitria sub quō rēgiī fuerant gregis,
+	840 	Phorbās. refersne nōmen aut vultum senis?
+	841 	~senex~#arrīdet animō fōrma; nec nōtus satis,
+	842 	nec rūrsus iste vultus ignōtus mihi.
+	843 	~oedipus~#rēgnum obtinente Lāiō famulus gregēs
+	844 	agitāstī opīmōs sub Cithaerōnis plāga?
+	845 	~phorbās~#laetus Cithaerōn pābulō semper novō
+	846 	aestīva nostrō prāta summittit gregī.
+	847 	~senex~#nōscisne mēmet?
+	    	~phorbās~#dubitat anceps memoria.
+	848 	~oedipus~#huic aliquis ā tē trāditur quondam puer?
+	849 	effāre. dubitās? cūr genās mūtat color?
+	850 	quid verba quaeris? vēritās ōdit morās.
+	851 	~phorbās~#obducta longō temporum tractū movēs.
+	852 	~oedipus~#fatēre, nē tē cōgat ad vērum dolor.
+	853 	~phorbās~#inūtile istī mūnus īnfantem dedī:
+	854 	nōn potuit ille lūce, nōn caelō fruī.
+	855 	~senex~#procul sit ōmen! vīvit et vīvat precor.
+	856 	~oedipus~#superesse quārē trāditum īnfantem negās?
+	857 	~phorbās~#ferrum per ambōs tenue trānsāctum pedēs
+	858 	ligābat artūs; vulnerī innātus tumor
+	859 	puerīle foedā corpus ūrēbat lue.
+	860 	~oedipus~#quid quaeris ultrā? fāta iam accēdunt prope.—
+	861 	quis fuerit īnfāns ēdocē.
+	    	~phorbās~#prohibet fidēs.
+	862 	~oedipus~#hūc aliquis ignem! flamma iam excutiet fidem.
+	863 	~phorbās~#per tam cruentās vēra quaerentur viās?
+	864 	ignōsce quaesō.
+	    	~oedipus~#sī ferus videor tibi
+	865 	et impotēns, parāta vindicta in manū est:
+	866 	dīc vēra. quisnam, quōve generātus patre,
+	867 	quā mātre genitus?
+	    	~phorbās~#coniuge est genitus tuā.
+	868 	~oedipus~#dēhīsce, tellūs, tūque, tenebrārum potēns,
+	869 	in Tartara īma, rēctor umbrārum, rape
+	870 	retrō reversās generis ac stirpis vicēs!
+	871 	congerite, cīvēs, saxa in īnfandum caput,
+	872 	mactāte tēlīs: mē petat ferrō parēns,
+	873 	mē nātus, in mē coniugēs arment manūs
+	874 	frātrēsque, et aeger populus ēreptōs rogīs
+	875 	iaculētur ignēs. saeculī crīmen vagor,
+	876 	odium deōrum, iūris exitium sacrī,
+	877 	quā lūce prīmum spīritūs hausī rudēs
+	878 	iam morte dignus. redde nunc animōs parēs,
+	879 	nunc aliquid audē sceleribus dignum tuīs.
+	880 	ī, perge, properō rēgiam gressū pete:
+	881 	grātāre mātrī līberīs auctam domum!
+	882 	~chorus~#fāta sī liceat mihi
+	883 	fingere arbitriō meō,
+	884 	temperem Zephyrō levī
+	885 	vēla, nē pressae gravī
+	886 	spīritū antennae tremant.
+	887 	lēnis et modicē fluēns
+	888 	aura nec vergēns latus
+	889 	dūcat intrepidam ratem;
+	890 	tūta mē mediā vehat
+	891 	vīta dēcurrēns viā.
+	892 	Cnosium rēgem timēns
+	893 	astra dum dēmēns petit,
+	894 	artibus fīsus novīs,
+	895 	certat et vērās avēs
+	896 	vincere ac falsīs nimis
+	897 	imperat pinnīs puer,
+	898 	nōmen ēripuit fretō.
+	899 	callidus medium senex
+	900 	Daedalus lībrāns iter
+	901 	nūbe sub mediā stetit
+	902 	ālitem expectāns suum
+	903 	(quālis accipitris minās
+	904 	fugit et sparsōs metū
+	905 	colligit fētūs avis),
+	906 	dōnec in pontō manūs
+	907 	mōvit implicitās puer
+	908 	compede audācis viae.
+	909 	quidquid excessit modum
+	910 	pendet īnstabilī locō.
+	911 	sed quid hoc? postēs sonant,
+	912 	maestus et famulus manū
+	913 	rēgius quassat caput.—
+	914 	ēde quid portēs nōvī.
+	915 	~nūntius~#praedicta postquam fāta et īnfandum genus
+	916 	dēprēndit ac sē scelere convictum Oedipus
+	917 	damnāvit ipse, rēgiam īnfēstus petēns
+	918 	invīsa properō tēcta penetrāvit gradū,
+	919 	quālis per arvā Libycus īnsānit leō,
+	920 	fulvam minācī fronte concutiēns iubam.
+	921 	vultus furōre torvus atque oculī trucēs,
+	922 	gemitus et altum murmur, et gelidus fluit
+	923 	sūdor per artūs, spūmat et volvit minās
+	924 	ac mersus altē magnus exundat dolor.
+	925 	sēcum ipse saevus grande nescioquid parat
+	926 	suīsque fātīs simile. “quid poenās moror?”
+	927 	aït “hoc scelestum pectus aut ferrō petat
+	928 	aut fervidō aliquis igne vel saxō domet.
+	929 	quae tigris aut quae saeva vīsceribus meīs
+	930 	incurret āles? ipse tū scelerum capāx,
+	931 	sacer Cithaerōn, vel ferās in mē tuīs
+	932 	ēmitte silvīs, mitte vel rabidōs canēs—
+	933 	nunc redde Agāvēn. anime, quid mortem timēs?
+	934 	mors innocentem sōla Fortūnae ēripit.”
+	935 	haec fātus aptat impiam capulō manum
+	936 	ēnsemque dūcit. “itane? tam magnīs brevēs
+	937 	poenās sceleribus solvis atque ūnō omnia
+	938 	pēnsābis ictū? moreris: hoc patrī sat est;
+	939 	quid deinde mātrī, quid male in lūcem ēditīs
+	940 	nātīs, quid ipsī, quae tuum magnā luit
+	941 	scelus ruīnā, flēbilī patriae dabis?
+	942 	solvendo nōn es! illa quae lēgēs ratās
+	943 	Nātūra in ūnō vertit Oedipodā, novōs
+	944 	commenta partūs, supplicīs eadem meīs
+	945 	novētur. iterum vīvere atque iterum morī
+	946 	liceat, renāscī semper ut totiēns nova
+	947 	supplicia pendās.—ūtere ingeniō, miser!
+	948 	quod saepe fierī nōn potest fīat diū;
+	949 	mors ēligātur longa. quaerātur via
+	950 	quā nec sepultīs mixtus et vīvīs tamen
+	951 	exēmptus errēs: morere, sed citrā patrem.
+	952 	cūnctāris, anime? subitus ēn vultūs gravat
+	953 	profūsus imber ac rigat flētū genās—
+	954 	et flēre satis est? hāctenus fundent levem
+	955 	oculī liquōrem: sēdibus pulsī suīs
+	956 	lacrimās sequantur. hī marītālēs statim
+	957 	fodiantur oculī!” dīxit atque īrā furit:
+	958 	ārdent minācēs igne truculentō genae
+	959 	oculīque vix sē sēdibus retinent suīs;
+	960 	violentus audāx vultus īrātus ferōx
+	961 	iamiam ēruentis. gemuit et dīrum fremēns
+	962 	manūs in ōra torsit; at contrā trucēs
+	963 	oculī stetērunt et suam intentī manum
+	964 	ultrō īnsequuntur, vulnerī occurrunt suō.
+	965 	scrūtātur avidus manibus uncīs lūmina,
+	966 	rādīce ab īmā funditus vulsōs simul
+	967 	ēvolvit orbēs; haeret in vacuō manus
+	968 	et fīxa penitus unguibus lacerat cavōs
+	969 	altē recessūs lūminum et inānēs sinūs,
+	970 	saevitque frūstrā plūsque quam satis est furit:
+	971 	tantum est perīclum lūcis. attollit caput
+	972 	cavīsque lūstrāns orbibus caelī plāgās
+	973 	noctem experītur. quidquid effossīs male
+	974 	dēpendet oculīs rumpit, et victor deōs
+	975 	conclāmat omnēs: “parcite ēn patriae, precor:
+	976 	iam iūsta fēcī, dēbitās poenās tulī;
+	977 	inventa thalamīs digna nox tandem meīs.”
+	978 	rigat ōra foedus imber, et lacerum caput
+	979 	largum revulsīs sanguinem vēnīs vomit.
+	980 	~chorus~#fātīs agimur: cēdite fātīs.
+	981 	nōn sollicitae possunt cūrae
+	982 	mūtāre ratī stāmina fūsī.
+	983 	quidquid patimur mortāle genus,
+	984 	quidquid facimus venit ex altō,
+	985 	servatque suae dēcrēta colūs
+	986 	Lachesis dūrā revolūta manū.
+	987 	omnia certō trāmite vādunt,
+	988 	prīmusque diēs dedit extrēmum.
+	989 	nōn illa deō vertisse licet,
+	990 	quae nexa suīs currunt causīs.
+	991 	it cuique ratus prece nōn ūllā
+	992 	mōbilis ōrdō. multīs ipsum
+	993 	metuisse nocet, multī ad fātum
+	994 	vēnēre suum dum fāta timent.
+	995 	sonuēre forēs, atque ipse suum
+	996 	duce nōn ūllō mōlītur iter
+	997 	lūminis orbus.
+	998 	~oedipus~#bene habet, perāctum est: iūsta persolvī patrī.
+	999 	iuvant tenebrae. quis deus tandem mihi
+	1000	plācātus ātrā nūbe perfundit caput?
+	1001	quis scelera dōnat? cōnscium ēvāsī diem.
+	1002	nīl, parricīda, dexterae dēbēs tuae:
+	1003	lūx tē refūgit. vultus Oedipodam hic decet.
+	1004	~chorus~#ēn ecce, rapidō saeva prōsiluit gradū
+	1005	Iocasta vēcors, quālis attonita et furēns
+	1006	Cadmēa māter abstulit nātō caput
+	1007	sēnsitve raptum. dubitat afflīctum alloquī,
+	1008	cupit pavetque. iam malīs cessit pudor,
+	1009	sed haeret ōre prīma vōx.
+		~iocasta~#quid tē vocem?
+	1010	nātumne? dubitās? nātus es: nātum pudet.
+	1011	invīte loquere nāte. quō āvertis caput
+	1012	vacuōsque vultūs?
+	    	~oedipus~#quis fruī tenebrīs vetat?
+	1013	quis reddit oculōs? mātris, ēn mātris sonus!
+	1014	perdidimus operam. congredī fās amplius
+	1015	haud est nefandōs. dīvidat vastum mare
+	1016	dirimatque tellūs abdita, et quisquis sub hōc
+	1017	in alia versūs sīdera ac sōlem āvium
+	1018	dēpendet orbis alterum ex nōbīs ferat.
+	1019	~iocasta~#fātī ista culpa est: nēmo fit fātō nocēns.
+	1020	~oedipus~#iam parce verbīs, māter, et parce auribus:
+	1021	per hās reliquiās corporis truncī precor,
+	1022	per inauspicātum sanguinis pignus meī,
+	1023	per omne nostrī nōminis fās ac nefās.
+	1024	~iocasta~#quid, anime, torpēs? socia cūr scelerum dare
+	1025	poenās recūsās? omne cōnfūsum perīt,
+	1026	incesta, per tē iūris hūmānī decus:
+	1027	morere et nefāstum spīritum ferrō exige.
+	1028	nōn sī ipse mundum concitāns dīvum sator
+	1029	corusca saevā tēla iaculētur manū,
+	1030	umquam rependam sceleribus poenās parēs
+	1031	māter nefanda. mors placet: mortis via
+	1032	quaerātur. agedum, commodā mātrī manum,
+	1033	sī parricīda es: restat hoc operī ultimum.
+	1034	—rapiātur ēnsis. hōc iacet ferrō meus
+	1035	coniūnx—quid illum nōmine haud vērō vocās?
+	1036	socer est. utrumne pectorī īnfīgam meō
+	1037	tēlum an patentī condītum iugulō imprimam?
+	1038	ēligere nescīs vulnus: hunc, dextra, hunc pete
+	1039	uterum capācem, quī virum et nātōs tulit.
+	1040	~chorus~#iacet perēmpta. vulnerī immoritur manus
+	1041	ferrumque sēcum nimius ēiēcit cruor.
+	1042	~oedipus~#Fātidice tē, tē praesidem vērī deum
+	1043	compello: sōlum dēbuī fātīs patrem;
+	1044	bis parricīda plūsque quam timuī nocēns
+	1045	mātrem perēmī: scelere cōnfecta est meō.
+	1046	ō Phoebe mendāx, fāta superāvī impia.
+	1047	pavitante gressū sequere fallentēs viās;
+	1048	suspēnsa plantīs efferēns vestīgia
+	1049	caecam tremente dexterā noctem rege.
+	1050	—ingredere praeceps, lūbricōs pōnēns gradūs,
+	1051	ī profuge vāde—siste, nē in mātrem incidās.
+	1052	quīcumque fessī pectore et morbō gravēs
+	1053	sēmianima trahitis corpora, ēn fugiō, exeō:
+	1054	relevāte colla, mītior caelī status
+	1055	post terga sequitur. quisquis exīlem iacēns
+	1056	animam retentat, vīvidōs haustūs levis
+	1057	concipiat. īte, ferte dēpositīs opem:
+	1058	mortifera mēcum vitia terrārum extrahō.
+	1059	violenta Fāta et horridus Morbī tremor,
+	1060	Maciēsque et ātra Pestis et rabidus Dolor,
+	1061	mēcum īte, mēcum. ducibus hīs ūtī libet.
