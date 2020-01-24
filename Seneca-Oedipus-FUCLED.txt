@@ -79,10 +79,10 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	74  	fīamque rēgnī fūnus extrēmum meī.
 	75  	ō saeva nimium nūmina, ō fātum grave!
 	76  	negātur ūnī nempe in hōc populō mihi
-	77  	mors tam parāta! sperne lētālī manū
+	77  	mors tam parāta. sperne lētālī manū
 	78  	contācta rēgna, linque lacrimās, fūnera,
 	79  	tābifica caelī vitia quae tēcum invehis
-	80  	īnfaustus hospes, profuge iamdūdum ōcius—
+	80  	īnfaustus hospes, profuge iamdūdum ōcius
 	81  	vel ad parentēs.
 	    	~iocasta~#quid iuvat, coniūnx, mala
 	82  	gravāre questū? rēgium hoc ipsum reor,
@@ -97,7 +97,7 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	91  	audāx Gigantas obviās ferrem manūs.
 	92  	nec Sphinga caecīs verba nectentem modīs
 	93  	fūgī: cruentōs vātis īnfandae tulī
-	94  	rictūs et albēns ossibus sparsīs solum;
+	94  	rictūs et albēns ossibus sparsīs solum,
 	95  	cumque ē supernā rūpe iam praedae imminēns
 	96  	aptāret ālās, verbera et caudae movēns
 	97  	saevī leōnis mōre conciperet minās,
