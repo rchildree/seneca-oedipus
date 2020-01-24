@@ -21,7 +21,7 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	16  	perimātur; hoc mē Delphicae laurūs monent,
 	17  	aliudque nōbīs maius indīcunt scelus.
 	18  	est maius aliquod patre mactātō nefās?
-	19  	prō misera pietās! ēloquī fātum pudet:
+	19  	prō misera pietās, ēloquī fātum pudet:
 	20  	thalamōs parentis Phoebus et dīrōs torōs
 	21  	nātō minātur impiā incestōs face.
 	22  	hic mē paternīs expulit rēgnīs timor,
@@ -30,13 +30,13 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	25  	Nātūra, posuī iūra. cum magna horreās,
 	26  	quod posse fierī nōn putēs metuās tamen.
 	27  	cūncta expavēscō mēque nōn crēdō mihi.
-	28  	iam iam aliquid in nōs fāta mōlīrī parant.
+	28  	iamiam aliquid in nōs fāta mōlīrī parant.
 	29  	nam quid rear quod ista Cadmēae luēs
 	30  	īnfēsta gentī strāge tam lātē ēditā
 	31  	mihi parcit ūnī? cui reservāmur malō?
 	32  	inter ruīnās urbis et semper novīs
 	33  	dēflenda lacrimīs fūnera ac populī struem
-	34  	incolumis astō—scīlicet Phoebī reus.
+	34  	incolumis astō, scīlicet Phoebī reus.
 	35  	spērāre poterās sceleribus tantīs darī
 	36  	rēgnum salūbre? fēcimus caelum nocēns.
 	37  	nōn aura gelidō lēnis afflātū fovet
@@ -52,7 +52,7 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	47  	sed gravis et āter incubat terrīs vapor;
 	48  	obtēxit arcēs caelitum ac summās domōs
 	49  	īnferna faciēs. dēnegat frūctum Cerēs
-	50  	adulta, et altīs flāva cum spīcīs tremat,
+	50  	adulta et, altīs flāva cum spīcīs tremat,
 	51  	ārente culmō sterilis ēmoritur seges.
 	52  	nec ūlla pars immūnis exitiō vacat,
 	53  	sed omnis aetās pariter et sexus ruit,
@@ -66,13 +66,13 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	61  	properatque ut alium repetat in eundem rogum.
 	62  	quīn lūctū in ipsō lūctus exorītur novus,
 	63  	suaeque circā fūnus exsequiae cadunt.
-	64  	tum propria flammīs corpora aliēnīs cremant;
+	64  	tum propria flammīs corpora aliēnīs cremant:
 	65  	dīripitur ignis, nūllus est miserīs pudor.
-	66  	nōn ossa tumulī lēcta discrētī tegunt:
-	67  	ārsisse satis est—pars quota in cinerēs abit!
+	66  	nōn ossa tumulī lēcta discrētī tegunt;
+	67  	ārsisse satis est. pars quota in cinerēs abit!
 	68  	dēst terra tumulīs, iam rogōs silvae negant.
-	69  	nōn vōta, nōn ars ūlla correptōs levant:
-	70  	cadunt medentēs, morbus auxilium trahit.
+	69  	nōn vōta, nōn ars ūlla correptōs levant.
+	70  	cadunt medentēs: morbus auxilium trahit.
 	71  	affūsus ārīs supplicēs tendō manūs
 	72  	mātūra poscēns fāta, praecurram ut prior
 	73  	patriam ruentem, nēve post omnēs cadam
@@ -678,7 +678,7 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	665 	multō ante Thēbae Lāium āmissum gemunt,
 	666 	Boeōta gressū quam meō tetigī loca.
 	667 	falsusne senior an deus Thēbīs gravis?
-	668 	—iam iam tenēmus callidī sociōs dolī:
+	668 	—iamiam tenēmus callidī sociōs dolī:
 	669 	mentītur ista praeferēns fraudī deōs
 	670 	vātēs, tibique scēptra dēspondet mea.
 	671 	~creō~#egone ut sorōrem rēgiā expellī velim?
