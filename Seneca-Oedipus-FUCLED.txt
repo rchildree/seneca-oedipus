@@ -122,41 +122,41 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	116 	fīgere et mundō tua signa prīmō.
 	117 	cinnamī silvīs Arabās beātōs
 	118 	vīdit et versās equitis sagittās,
-	119 	terga fallācis metuenda Parthī;
-	120 	lītus intrāvit pelagī rubentis:
+	119 	terga fallācis metuenda Parthī.
+	120 	lītus intrāvit pelagī rubentis;
 	121 	prōmit hinc ortūs aperitque lūcem
 	122 	Phoebus et flammā propiōre nūdōs
 	123 	īnficit Indōs.
 	124 	stirpis invictae genus interīmus,
 	125 	lābimur saevō rapiente fātō.
-	126 	dūcitur semper nova pompa Mortī;
+	126 	dūcitur semper nova pompa Mortī,
 	127 	longus ad manēs properātur ōrdō
 	128 	agminis maestī, seriēsque trīstis
-	129 	haeret et turbae tumulōs petentī
+	129 	haeret, et turbae tumulōs petentī
 	130 	nōn satis septem patuēre portae;
 	131 	stat gravis strāgēs, premiturque iūnctō
 	132 	fūnere fūnus.
-	133 	prīma vīs tardās tetigit bidentēs.
-	134 	lāniger pinguēs male carpsit herbās;
-	135 	colla tāctūrus steterat sacerdōs:
+	133 	prīma vīs tardās tetigit bidentēs:
+	134 	lāniger pinguēs male carpsit herbās.
+	135 	colla tāctūrus steterat sacerdōs —
 	136 	dum manus certum parat alta vulnus,
 	137 	aureō taurus rutilante cornū
 	138 	lābitur sēgnis. patuit sub ictū
-	139 	ponderis vastī resolūta cervīx:
+	139 	ponderis vastī resolūta cervīx.
 	140 	nec cruor, ferrum maculāvit ātrā
 	141 	turpis ē plāgā saniēs profūsa.
 	142 	sēgnior cursū sonipēs in ipsō
-	143 	concīdit gȳrō, dominumque prōnō
+	143 	concīdit gȳrō dominumque prōnō
 	144 	prōdidit armō.
 	145 	incubant agrīs pecudēs relictae;
 	146 	taurus armentō pereunte marcet;
-	147 	dēficit pāstor grege dēminūtō,
+	147 	dēficit pāstor, grege dēminūtō,
 	148 	tābidōs inter moriēns iuvencōs.
-	149 	nōn lupōs cervī metuunt rapācēs,
-	150 	cessat īrātī fremitus leōnis,
+	149 	nōn lupōs cervī metuunt rapācēs;
+	150 	cessat īrātī fremitus leōnis;
 	151 	nūlla villōsīs feritās in ursīs;
 	152 	perdidit pestem latebrōsa serpēns,
-	153 	āret et siccō moritur venēnō.
+	153 	āret, et siccō moritur venēnō.
 	154 	nōn silva suā decorāta comā
 	155 	fundit opācīs montibus umbrās,
 	156 	nōn rūra virent ūbere glēbae,
