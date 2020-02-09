@@ -164,13 +164,13 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	158 	bracchia curvat:
 	159 	omnia nostrum sēnsēre malum.
 	160 	rūpēre Erebī claustra profundī
-	161 	turba sorōrum face Tartareā,
+	161 	turba sorōrum face Tartareā
 	162 	Phlegethōnque suā mōtam rīpā
 	163 	miscuit undīs Styga Sīdoniīs.
 	164 	Mors ātra avidōs ōris hiātūs
 	165 	pandit et omnēs explicat ālās;
 	166 	quīque capācī turbida cumbā
-	167 	flūmina servat dūrus sēniō
+	167 	flūmina servat, dūrus sēniō
 	168 	nāvita crūdō, vix assiduō
 	169 	bracchia contō lassāta refert,
 	170 	fessus turbam vectāre novam.
@@ -178,30 +178,30 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	172 	rūpisse canem fāma et nostrīs
 	173 	errāre locīs, mūgīsse solum,
 	174 	vaga per lūcōs <volitāsse sacrōs> simulācra virum
-	175 	maiōra virīs, bis Cadmēum
+	175 	maiōra virīs; bis Cadmēum
 	176 	nive discussā tremuisse nemus,
 	177 	bis turbātam sanguine Dircēn,
 	178 	nocte silentī
-	179 	<circā mūrōs> Amphīoniōs ululāsse canēs.
-	180 	ō dīra nōvī faciēs lētī
+	179 	<bis per mūrōs> Amphīoniōs ululāsse canēs.
+	180 	ō dīra nōvī faciēs lētī —
 	181 	gravior lētō! piger ignāvōs
-	182 	alligat artūs languor, et aegrō
-	183 	rubor in vultū, maculaeque cutem
-	184 	sparsēre levēs. tum vapor ipsam
+	182 	alligat artūs languor et aegrō
+	183 	rubor in vultū maculaeque cutem
+	184 	sparsēre levēs; tum vapor ipsam
 	185 	corporis arcem flammeus ūrit
+	187b	et sacer ignis
+	188a	pāscitur artūs;
 	186 	multōque genās sanguine tendit,
 	187a	oculīque rigent,
-	188b	resonant aurēs
+	188b	resonant aurēs,
 	189 	stillatque niger nāris aduncae
-	190 	cruor et vēnās rumpit hiantēs;
+	190 	cruor, et vēnās rumpit hiantēs;
 	191 	intima crēber vīscera quassat
-	192a	gemitus strīdēns,
-	187b	et sacer ignis
-	188a	pāscitur artūs.
+	192a	gemitus strīdēns.
 	192b	iamque amplexū
 	193 	frīgida pressō saxa fatīgant;
 	194 	quōs līberior domus ēlātō
-	195 	cūstōde sinit, petitis fontēs
+	195 	cūstōde sinit, petitis fontēs,
 	196 	aliturque sitis latice ingestō.
 	197 	prōstrāta iacet turba per ārās
 	198 	ōratque morī: sōlum hoc facilēs
@@ -225,7 +225,7 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	    	~oedipus~#fāre, sit dubium licet:
 	216 	ambigua sōlī nōscere Oedipodae datur.
 	217 	~creō~#caedem expiārī rēgiam exiliō deus
-	218 	et interēmptum Lāium ulcīscī iubet:
+	218 	et interēmptum Lāium ulcīscī iubet.
 	219 	nōn ante caelō lūcidus curret diēs
 	220 	haustūsque tūtōs aetheris pūrī dabit.
 	221 	~oedipus~#et quis perēmptor inclutī rēgis fuit?
