@@ -218,7 +218,7 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	209 	incertus animus scīre cum cupiat timet.
 	210 	germāne nostrae coniugis, fessīs opem
 	211 	sī quam reportās, vōce properātā ēdocē.
-	212 	~creō~#respōnsa dubia sorte perplexā iacent.
+	212 	~creō~#respōnsa dubia sorte perplexā latent.
 	213 	~oedipus~#dubiam salūtem quī dat afflīctīs negat.
 	214 	~creō~#ambāge flexā Delphicō mōs est deō
 	215 	arcāna tegere.
@@ -258,7 +258,7 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	248 	quisquis deōrum rēgna plācātus vidēs:
 	249 	tū, tū penes quem iūra praecipitis polī,
 	250 	tūque, ō serēnī maximum mundī decus,
-	251 	bis sēna cursū signa quī variō legis,
+	251 	bis sēna cursū signa quī variō regis,
 	252 	quī tarda celerī saecula ēvolvis rotā,
 	253 	sororque frātrī semper occurrēns tuō,
 	254 	noctivaga Phoebē, quīque ventōrum potēns
