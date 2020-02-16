@@ -193,12 +193,9 @@ Colometry readjusted to fit original(?) line-numbers from Gronovius
 	187a	oculīque rigent,
 	188b	resonant aurēs
 	189 	stillatque niger nāris aduncae
-	190 	cruor et vēnās rumpit hiantēs,
-	187b	et sacer ignis
-	188a	pāscitur artūs;
+	190 	cruor et vēnās rumpit hiantēs;
 	191 	intima crēber vīscera quassat
-	192a	gemitus strīdēns.
-	192b	iamque amplexū
+	192		gemitus strīdēns. iamque amplexū
 	193 	frīgida pressō saxa fatīgant;
 	194 	quōs līberior domus ēlātō
 	195 	cūstōde sinit, petitis fontēs,
