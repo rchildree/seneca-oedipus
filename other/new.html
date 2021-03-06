@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+
+	<style>
+		body {position:relative;
+		margin: 50% 50%
+		width: 60ch}
+		span {position:relative}
+		span:hover::after {
+			background: gray;
+			position: absolute;
+			padding: 5px;
+			white-space: pre-wrap;
+			content: attr(data-form) '\A' attr(data-parse);
+		}
+	</style>
+</head>
+<body>
+	Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia similique in consequatur dolor eveniet qui repellat aperiam delectus dolore at. <span data-form="magister -ī m. teacher" data-parse="nom. sg. m.">word</span>
+</body>
+</html>
